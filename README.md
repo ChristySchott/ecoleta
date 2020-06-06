@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/leon-carvalho/Ecoleta/blob/master/github-assets/banner.png" />
 </h1>
 
 <h4 align="center"> 
@@ -13,7 +13,7 @@
 
   	
   <a href="https://www.linkedin.com/in/leonardo-dev/">
-    <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
+    <img alt="Made by Christy" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
   </a>
 	
   
@@ -64,17 +64,17 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/home-mobile.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/leon-carvalho/Ecoleta/blob/master/github-assets/home-mobile.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/detalhes-mobile.svg" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/leon-carvalho/Ecoleta/blob/master/github-assets/detalhes-mobile.svg" width="200px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/web.svg" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/leon-carvalho/Ecoleta/blob/master/github-assets/web.svg" width="400px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/sucesso-web.svg" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/leon-carvalho/Ecoleta/blob/master/github-assets/sucesso-web.svg" width="400px">
 </p>
 
 ## 🛠 Tecnologias
@@ -147,24 +147,26 @@ $ npm run start
 
 ### :iphone: Mobile
 
-<p> No repositório clonado </p>
+```bash
+# No repositório clonado
 
 ``
-cd mobile/
+$ cd mobile/
 ``
-<p> e para instalar as dependencias </p>
+# e para instalar as dependencias
 
 ``
-npm install
+$ npm install
 ``
-<p> e rode </p>
+# e rode 
 
 ``
-npm start
+$ npm start
 ``
-<p> Instale o app do expo no telefone ou o emulador. Escaneie o QR Code para rodar o projeto! </p>
+# Instale o app do expo no telefone ou o emulador. Escaneie o QR Code para rodar o projeto!
 
-<h3>Enjoy!! :rocket: :rocket:</h3>
+Enjoy!! :rocket: :rocket:
+```
 
 ## 📝 Licença
 
