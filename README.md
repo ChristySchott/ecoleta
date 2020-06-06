@@ -23,7 +23,7 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/leon-carvalho/Ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leon-carvalho/Ecoleta?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/christyschott/ecoleta?style=social">
   </a>
 </p>
 
