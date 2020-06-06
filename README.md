@@ -13,12 +13,12 @@
 
   	
   <a href="https://www.linkedin.com/in/leonardo-dev/">
-    <img alt="Made by Christy" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
+    <img alt="Made by Christy" src="https://img.shields.io/badge/made%20by-christyschott-%2304D361">
   </a>
 	
   
   <a href="https://github.com/leon-carvalho/Ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leon-carvalho/Ecoleta">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/christyschott/ecoleta">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
